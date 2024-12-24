@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#EB5A0F" /> <!-- 내부 색상 -->
+    <stroke
+        android:width="2dp"
+        android:color="#EB5A0F" /> <!-- 테두리 색상 -->
+    <corners android:radius="16dp" /> <!-- 둥근 각도 -->
+</shape>

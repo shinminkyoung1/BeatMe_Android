@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F88F58" /> <!-- 비활성 색상 (회색에 투명도) -->
+    <corners android:radius="15dp" />
+</shape>
